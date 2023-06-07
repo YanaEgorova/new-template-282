@@ -1,0 +1,24 @@
+:root {
+  --main-bg-color: #fff;
+  --sub-bg-color: #000;
+  --main-text-color: #000;
+  --sub-text-color: #fff;
+  --inactive: #818181;
+  --success: #bee3be;
+  --link-color: blue;
+  --accent-color: #ff0000;
+  --active: #6bff21;
+
+  --first-brand-color: #e9e7e6;
+  --second-brand-color: #dad3d1;
+  --third-brand-color: #f2501a;
+  --fourth-brand-color: #9a8f87;
+  --fifth-brand-color: #beb3ac;
+  --hero-text-color: #62605e;
+
+  --main-font: 'Montserrat Medium';
+  --title-font:  'Montserrat Bold';
+  --main-title-font: 'Roboto';
+
+  font-size: 62.5%;
+}
